@@ -84,12 +84,12 @@ keySecurity: read protected
 
 # Product and data sheet URLs (optional)
 productURL: https://www.abeeway.com/industrial-tracker/
-dataSheetURL: https://www.abeeway.com/wp-content/uploads/2020/11/Abeeway_Products_Industrial_07_DIGITAL.pdf
+dataSheetURL: https://www.abeeway.com/wp-content/uploads/2022/07/Abeeway_Products_Industrial_2022-v1.4.pdf
 resellerURLs:
   - name: 'Actility'
     region:
       - Other
-    url: https://market.thingpark.com/searchanise/result?q=industrial+tracker
+    url: https://market.thingpark.com/abeeway-industrial-tracker-v2.html
 
 # Photos
 photos:
