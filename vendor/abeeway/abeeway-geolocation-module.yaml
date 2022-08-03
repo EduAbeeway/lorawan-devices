@@ -81,13 +81,13 @@ keyProvisioning:
 keySecurity: read protected
 
 # Product and data sheet URLs (optional)
-productURL: https://actilitysa.sharepoint.com/:b:/t/aby/EYOI_kuaGtZAi8LYl_ooalwBNW6ffv27k1ZOHqWMmtNccA?e=xqOvOq
-dataSheetURL: https://actilitysa.sharepoint.com/:b:/t/aby/EYOI_kuaGtZAi8LYl_ooalwBNW6ffv27k1ZOHqWMmtNccA?e=xqOvOq
+productURL: https://www.abeeway.com/abeeway-geolocation-module/
+dataSheetURL: https://www.abeeway.com/wp-content/uploads/2022/04/Abeeway_Geolocation-module-data-sheet_2022-v05.pdf
 resellerURLs:
   - name: 'Actility'
     region:
-      - Other
-    url: https://www.actility.com/
+      - Purchase Online
+    url: https://market.thingpark.com/abeeway-low-power-geolocation-module-evaluation-kit-private-network.html
 
 # Photos
 photos:
